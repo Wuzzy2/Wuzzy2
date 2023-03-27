@@ -6,6 +6,8 @@ My name is Wuzzy and I’m strong supporter of free software. Because of this, m
 
 **I reject GitHub** because [GitHub is not free software](https://wuzzy.codeberg.page/essays/github/) and suffers from [the JavaScript Trap](https://www.gnu.org/philosophy/javascript-trap.html).
 
+The JavaScript Trap is **a huge deal**, actually. It has de-facto **normalized** webbrowers shipping proprietary code to its users. While we can’t fix the web, we *can* fix our workflows in our own software projects by removing proprietary software from **all** steps in our workflow.
+
 If the free software movement wants to truly win, we have to go **free software all the way**. It is unacceptable we’re tolerating a massive proprietary platform like GitHub and have integrated in our workflow so deeply.
 
 ### Moving away from GitHub
@@ -26,6 +28,8 @@ In one word, compromise. In an ideal world, I could just abandon GitHub. However
 * Be able to **contribute** to certain projects (like Minetest) at all and report bugs
 * **Complain** about GitHub :-)
 * And finally, it’s still *kinda* usable without running JavaScript, but it’s very buggy and I have to fall back to workarounds (but this is PAIN)
+
+The sad irony is, if I’d abandon GitHub entirely, it would essentially lock me out of the development many important free softwares. Even reporting bugs could become tricky. So the least I could do is to raise awareness for now.
 
 ## About me
 
