@@ -1,30 +1,35 @@
-I am:
-* 🕹️ Gamer
-* 💻 Libre game dev
-* 🗨️ Comic maker
-* ✊ Freedom lover
-* 🐧 Parabola user
-* ♠️ Aro-ace
+My name is Wuzzy and I’m strong supporter of free software. Because of this, my activity on GitHub is limited. I only use it to contribute to other free software projects like Minetest.
 
-My personal website:
-* <https://wuzzy.codeberg.page/>
+## GitHub is bad
 
-I make games:
-* 🌳 Repixture <https://codeberg.org/Wuzzy/Repixture>
-* 💻 Glitch <https://codeberg.org/Wuzzy/Glitch>
-* ⛏️ Games and mods for Minetest <https://wiki.minetest.net/User:Wuzzy>
-* 🌟 Other software projects <https://codeberg.org/Wuzzy>
+**You will not find my own code here.** No, forks created exclusively for pull requests don’t count. My own code is hosted on [Codeberg.org](https://codeberg.org/Wuzzy).
 
-My webcomic:
-* 🗨️ Nose Ears <https://wuzzy.neocities.org>
+**I reject GitHub** because [https://wuzzy.codeberg.page/essays/github/](GitHub is not free software) and suffers from [https://www.gnu.org/philosophy/javascript-trap.html](The JavaScript trap).
 
-I help with:
-* ⛏️ Minetest <https://minetest.net>
-* 🦔 Hedgewars (co-dev) <https://hedgewars.org>
-* 🔣 Translations
-* 🌟 Other free software
+If the free software community wants to truly win, we have to go **free software all the way**. It is unacceptable we’re tolerating a massive proprietary platform like GitHub and have integrated in our workflow so deeply.
 
-Contact:
-* 🐘 Mastodon: https://fosstodon.org/@Wuzzy
-* 🌐 XMPP: Wuzzy2@jabber.ccc.de
-* ✉️ E-mail: Wuzzy@disroot.org
+### Moving away from GitHub
+
+**If your project is on GitHub and you care about freedom, please consider migrating to a free platform.** The more people embrace *actual* freedom, the easier it will become for all of us.
+
+**I recommend [Codeberg.org](https://codeberg.org)**. It is run by people who are *very* pro-free-software, has a very similar interface, easy migration and is very stable. I have had *very* good experience with it. We free software people have to stick together. :-)
+
+Before you actually migrate, please make sure to read their documentation first in order to avoid ugly surprises.
+
+Alternatively, consider self-hosting.
+
+### Why I still use GitHub
+
+In one word, compromise. In an ideal world, I could just abandon GitHub. However, that would not actually accomplish anything. Reasons why I still use GitHub include:
+
+* **Reach out** to free software projects in order to convince them to move
+* Be able to **contribute** to certain projects (like Minetest) at all and report bugs
+* **Complain** about GitHub :-)
+* And finally, it’s still *kinda* usable without running JavaScript, but it’s very buggy and I have to fall back to workarounds (but this is PAIN)
+
+## About me
+
+To learn more about me and what I do, check out my [personal website](https://wuzzy.codeberg.page).
+
+Follow me in the [Fediverse](https://fosstodon.org/web/@Wuzzy).
+
