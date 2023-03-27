@@ -6,6 +6,9 @@ I am:
 * 🐧 Parabola user
 * ♠️ Aro-ace
 
+My personal website:
+* <https://wuzzy.codeberg.page/>
+
 I make games:
 * 🌳 Repixture <https://codeberg.org/Wuzzy/Repixture>
 * 💻 Glitch <https://codeberg.org/Wuzzy/Glitch>
