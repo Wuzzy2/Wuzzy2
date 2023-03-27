@@ -4,9 +4,9 @@ My name is Wuzzy and I’m strong supporter of free software. Because of this, m
 
 **You will not find my own code here.** No, forks created exclusively for pull requests don’t count. My own code is hosted on [Codeberg.org](https://codeberg.org/Wuzzy).
 
-**I reject GitHub** because [https://wuzzy.codeberg.page/essays/github/](GitHub is not free software) and suffers from [https://www.gnu.org/philosophy/javascript-trap.html](The JavaScript trap).
+**I reject GitHub** because [GitHub is not free software](https://wuzzy.codeberg.page/essays/github/) and suffers from [the JavaScript Trap](https://www.gnu.org/philosophy/javascript-trap.html).
 
-If the free software community wants to truly win, we have to go **free software all the way**. It is unacceptable we’re tolerating a massive proprietary platform like GitHub and have integrated in our workflow so deeply.
+If the free software movement wants to truly win, we have to go **free software all the way**. It is unacceptable we’re tolerating a massive proprietary platform like GitHub and have integrated in our workflow so deeply.
 
 ### Moving away from GitHub
 
@@ -33,3 +33,6 @@ To learn more about me and what I do, check out my [personal website](https://wu
 
 Follow me in the [Fediverse](https://fosstodon.org/web/@Wuzzy).
 
+## License
+
+This text is in the Public Domain, released under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
