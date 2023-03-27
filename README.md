@@ -1,8 +1,8 @@
 My name is Wuzzy and I’m strong supporter of free software. Because of this, my activity on GitHub is limited. I only use it to contribute to other free software projects like Minetest.
 
-## GitHub is bad
+**You will not find my own code here.** (No, forks created exclusively for pull requests don’t count.) My own code is hosted on **[Codeberg.org](https://codeberg.org/Wuzzy)**.
 
-**You will not find my own code here.** No, forks created exclusively for pull requests don’t count. My own code is hosted on [Codeberg.org](https://codeberg.org/Wuzzy).
+## GitHub is bad
 
 **I reject GitHub** because [GitHub is not free software](https://wuzzy.codeberg.page/essays/github/) and suffers from [the JavaScript Trap](https://www.gnu.org/philosophy/javascript-trap.html).
 
