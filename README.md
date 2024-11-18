@@ -1,4 +1,4 @@
-My name is Wuzzy and I’m strong supporter of free software. Because of this, my activity on GitHub is limited. I only use it to contribute to other free software projects like Minetest.
+My name is Wuzzy and I’m strong supporter of free software. Because of this, my activity on GitHub is limited. I only use it to contribute to other free software projects like Luanti.
 
 **You will not find my own code here.** (No, forks created exclusively for pull requests don’t count.) My own code is hosted on **[Codeberg.org](https://codeberg.org/Wuzzy)**.
 
@@ -25,7 +25,7 @@ Alternatively, consider self-hosting.
 In one word, compromise. In an ideal world, I could just abandon GitHub. However, that would not actually accomplish anything. Reasons why I still use GitHub include:
 
 * **Reach out** to free software projects in order to convince them to move
-* Be able to **contribute** to certain projects (like Minetest) at all and report bugs
+* Be able to **contribute** to certain projects (like Luanti) at all and report bugs
 * **Complain** about GitHub :-)
 * And finally, it’s still *kinda* usable without running JavaScript, but it’s very buggy and I have to fall back to workarounds (but this is PAIN)
 
